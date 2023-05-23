@@ -25,6 +25,10 @@
   text-align: center;
 }
 
+.offer-img {
+  height: 300px;
+}
+
 .about-homestay {
   text-align: justify;
 }

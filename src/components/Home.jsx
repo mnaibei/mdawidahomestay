@@ -62,7 +62,7 @@ const Home = () => {
           <Row>
             <Col md={4} sm={6} className="mb-4">
               <Card>
-                <Card.Img variant="top" src={oneBed} alt="One Bed" />
+                <Card.Img variant="top" src={oneBed} alt="One Bed" className="offer-img" />
                 <Card.Body>
                   <Card.Title>Accommodation</Card.Title>
                   <Card.Text>
@@ -76,7 +76,7 @@ const Home = () => {
             </Col>
             <Col md={4} sm={6} className="mb-4">
               <Card>
-                <Card.Img variant="top" src={tours} alt="Tours" />
+                <Card.Img variant="top" src={tours} alt="Tours" className="offer-img" />
                 <Card.Body>
                   <Card.Title>Tours and Excursions</Card.Title>
                   <Card.Text>
@@ -90,7 +90,7 @@ const Home = () => {
             </Col>
             <Col md={4} sm={6} className="mb-4">
               <Card>
-                <Card.Img variant="top" src={voluntourism} alt="Voluntourism" />
+                <Card.Img variant="top" src={voluntourism} alt="Voluntourism" className="offer-img" />
                 <Card.Body>
                   <Card.Title>Voluntourism</Card.Title>
                   <Card.Text>
