@@ -1,3 +1,4 @@
+import { NavLink } from 'react-router-dom';
 import '../styles/footer.css';
 
 const Footer = () => (
@@ -27,16 +28,16 @@ const Footer = () => (
         <h3>Useful Links</h3>
         <ul className="useful-links">
           <li>
-            <a href="/home">About Us</a>
+            <NavLink to="/home">About Us</NavLink>
           </li>
           <li>
-            <a href="/rooms">Rooms</a>
+            <NavLink to="/rooms">Rooms</NavLink>
           </li>
           <li>
-            <a href="/activities">Tours & Excursions</a>
+            <NavLink to="/activities">Tours & Excursions</NavLink>
           </li>
           <li>
-            <a href="/contact">Contact</a>
+            <NavLink to="/contact">Contact</NavLink>
           </li>
         </ul>
       </div>
