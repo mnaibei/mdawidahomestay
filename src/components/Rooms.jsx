@@ -49,7 +49,7 @@ const Rooms = () => (
                 prepare! Also included: Wireless and fast internet, Television,
                 Private entrance. Looking forward to having you here.
               </Card.Text>
-              <Card.Text>
+              <Card.Text className="costs">
                 <strong>COSTS:</strong>
                 <br />
                 Single: USD25
@@ -76,7 +76,7 @@ const Rooms = () => (
                 you want to prepare! Also included: Wireless and fast internet,
                 Television, Private entrance. Looking forward to having you here.
               </Card.Text>
-              <Card.Text>
+              <Card.Text className="costs">
                 <strong>COSTS:</strong>
                 <br />
                 Single: USD20

@@ -20,14 +20,14 @@ footer {
 
 .footer-section h3 {
   color: #333;
-  font-size: 18px;
+  font-size: 25px;
   font-weight: bold;
   margin-bottom: 15px;
 }
 
 .footer-section p {
   color: #666;
-  font-size: 14px;
+  font-size: 25px;
   line-height: 1.5;
   margin-bottom: 10px;
 }
@@ -46,7 +46,7 @@ footer {
 .social-media a {
   color: #666;
   text-decoration: none;
-  font-size: 14px;
+  font-size: 25px;
 }
 
 .useful-links {
@@ -62,13 +62,13 @@ footer {
 .useful-links a {
   color: #666;
   text-decoration: none;
-  font-size: 14px;
+  font-size: 25px;
 }
 
 .footer-bottom {
   margin-top: 30px;
   color: #999;
-  font-size: 12px;
+  font-size: 25px;
 }
 
 .footer-bottom p {
