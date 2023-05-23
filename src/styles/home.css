@@ -1,7 +1,5 @@
 .carousel-container {
   position: relative;
-
-  /* border: 2px solid red; */
   min-height: 25vh;
 }
 
@@ -29,4 +27,5 @@
 
 .about-homestay {
   text-align: justify;
+  font-size: 20px;
 }
