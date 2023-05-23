@@ -1,0 +1,22 @@
+.carousel-container {
+  position: relative;
+  border: 2px solid red;
+  min-height: 25vh;
+}
+
+.welcome-container {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  z-index: 1;
+  text-align: center;
+  color: white;
+  font-size: 25px;
+}
+
+.slide img {
+  height: 350px;
+  width: 100%;
+  object-fit: cover;
+}
