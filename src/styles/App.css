@@ -8,7 +8,8 @@
   display: flex;
   flex-direction: column;
   min-height: 100vh;
-  border: 3px solid green;
+
+  /* border: 3px solid green; */
 }
 
 .homepage,
@@ -16,11 +17,14 @@
 .activities-container,
 .contact-container {
   flex: 1;
-  border: 3px solid yellow;
+
+  /* border: 3px solid yellow; */
 }
 
 footer {
   flex-shrink: 0;
-  border: 2px solid brown;
-  color: red;
+
+  /* border: 2px solid brown; */
+
+  /* color: red; */
 }

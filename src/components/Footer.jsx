@@ -5,9 +5,9 @@ const Footer = () => (
     <div className="footer-content">
       <div className="footer-section">
         <h3>Contact Us</h3>
-        <p>Email: info@mdawidahomestay.com</p>
-        <p>Phone: +1234567890</p>
-        <p>Address: 123 Main Street, City, Country</p>
+        <p>Email: contact@mdawidahomestay.com</p>
+        <p>Phone: +254726827009</p>
+        <p>Address: Sunvalley Estate Phase 1, Nairobi, Kenya</p>
       </div>
       <div className="footer-section">
         <h3>Follow Us</h3>

@@ -1,6 +1,7 @@
 .carousel-container {
   position: relative;
-  border: 2px solid red;
+
+  /* border: 2px solid red; */
   min-height: 25vh;
 }
 
@@ -19,4 +20,13 @@
   height: 350px;
   width: 100%;
   object-fit: cover;
+}
+
+.offering {
+  text-transform: capitalize;
+  text-align: center;
+}
+
+.about-homestay {
+  text-align: justify;
 }
