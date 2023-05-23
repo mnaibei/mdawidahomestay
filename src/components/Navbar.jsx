@@ -13,7 +13,9 @@ const Navigation = () => {
   return (
     <Navbar expand="md" bg="light" variant="light" sticky="top">
       <Navbar.Brand as={Link} to="/" onClick={closeMobileMenu}>
-        Mdawida Homestay <GiKenya/>
+        Mdawida Homestay
+        {' '}
+        <GiKenya />
       </Navbar.Brand>
       <Navbar.Toggle aria-controls="navbar-collapse" />
       <Navbar.Collapse id="navbar-collapse">
