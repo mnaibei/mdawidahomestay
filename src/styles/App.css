@@ -22,3 +22,7 @@
 footer {
   flex-shrink: 0;
 }
+
+.navbar-brand {
+  font-size: 25px;
+}
